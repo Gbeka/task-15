@@ -1,0 +1,71 @@
+
+ header{
+     text-align: center;
+     font-size: 50px;
+ }
+.box{
+
+
+}
+
+
+
+
+
+.container{
+display: flex;
+margin:50px;
+width: 1000px;
+
+
+}
+
+
+
+
+
+.item{
+
+    width: 400px;
+    max-height: 1000px;
+    text-align: center;
+    margin:10px;
+  
+    background-color:rgb(238, 230, 220);
+   
+  
+}
+
+
+
+.img{
+   max-width: 500px;
+   max-height: 300px;
+  
+
+}
+
+.priceName{
+    display: flex;
+    justify-content: space-between;
+ margin:0px 20px 10px 20px;
+ font-weight: 800;
+}
+
+.name{
+width: 200px;
+  
+
+}
+
+.price{
+    
+
+}
+
+.desc{
+    margin:5px 20px 5px 20px;
+    background-color: rgb(208, 217, 238);
+    font-size: 13px;
+    font-style: italic;
+}
